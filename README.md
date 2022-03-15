@@ -1,5 +1,7 @@
 # CR-review-past-project
 
+![screenshot](./screenshoot.png)
+
 ## Built With
 
 - HTML
