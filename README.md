@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-[View Live Demo](https://suspicious-golick-545a0f.netlify.app)
+[View Live Demo](https://roshan-bajgain.github.io/CR-review-past-project/)
 
 ### Prerequisites
 
