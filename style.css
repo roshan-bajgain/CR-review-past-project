@@ -20,11 +20,11 @@
 }
 
 #navbar {
+  background-color: red;
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
-  background-color: red;
   padding: 20px;
 }
 
